@@ -1,2 +1,2 @@
-# CSS-Turk-Bayragi
-Sadece CSS kullarak oluşturulan Türk bayrağı.
+# CSS Türk Bayrağı
+Sadece CSS kullanılarak oluşturulan Türk bayrağı.
