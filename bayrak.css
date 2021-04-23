@@ -27,16 +27,6 @@
     border: 165px solid rgba(227, 10, 23, 1.0);
 }
 
-.kirmizi-daire {
-    height: 330px;
-    width: 330px;
-    background-color: rgba(227, 10, 23, 1.0);
-    border-radius: 50%;
-    position: relative;
-    left: 100px;
-    top: 44px;
-}
-
 .yildiz {
     margin: 50px 0;
     position: relative;
